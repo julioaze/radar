@@ -12,5 +12,3 @@ Caso não veja a mensagem, ou a página não carregue, significa que sua rede es
 - 1: Instalar o _MongoDB Compass Communit_
 <https://www.mongodb.com/download-center/compass>
 - 2: No cluster, clicar em 'Connect with MongoDB Compass'
-
-CONTINUAR O VIDEO EM 1:17 - ROTA DE LISTAGEM DE DEVS
